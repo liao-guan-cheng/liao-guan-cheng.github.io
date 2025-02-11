@@ -24,3 +24,7 @@ footer {
     height: 200px; /* 設定與寬度相同，確保圖片為圓形 */
     object-fit: cover; /* 避免變形，確保內容填滿 */
 }
+
+#profileTabs .nav-link {
+    font-weight: 500; /* Adjust the weight to make the text thinner */
+}
